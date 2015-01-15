@@ -1,0 +1,185 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: sys_jwxt - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/sys_jwxt.res" /d "_DEBUG" /d "_AFXDLL" "D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\sys_jwxt.rc"" 
+Creating temporary file "C:\Users\zm\AppData\Local\Temp\RSPF7C.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/sys_jwxt.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\_recordset.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\adodc.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\column.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\columns.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\dataformatdisp.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\datagrid.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgChangepwd.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgJwAddcourse.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgJwDelcourse.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgJwPublish.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgLoginedJw.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgLoginedStudent.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgLoginedSystem.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgLoginedTeacher.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgPopInputscore.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgSystemAddjw.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgSystemAddstu.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgSystemAddtch.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgSystemDeljw.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgSystemDelstu.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgSystemDeltch.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgSystemUpdatejw.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgSystemUpdatestu.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgSystemUpdatetch.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgSysWelcome.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\DlgTchInputscore.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\field.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\fields.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\font.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\picture.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\properties.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\property.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\selbookmarks.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\split.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\splits.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\stddataformatsdisp.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\sys_jwxt.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\sys_jwxtDlg.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\T_Admin.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\T_Course.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\T_Isselectcourse.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\T_Jwadmin.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\T_Publish.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\T_SC.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\T_Student.cpp"
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\T_Teacher.cpp"
+]
+Creating command line "cl.exe @C:\Users\zm\AppData\Local\Temp\RSPF7C.tmp" 
+Creating temporary file "C:\Users\zm\AppData\Local\Temp\RSPF7D.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/sys_jwxt.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\zm\AppData\Local\Temp\RSPF7D.tmp" 
+Creating temporary file "C:\Users\zm\AppData\Local\Temp\RSPF7E.tmp" with contents
+[
+ADOConn.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/sys_jwxt.pdb" /debug /machine:I386 /out:"Debug/sys_jwxt.exe" /pdbtype:sept 
+".\Debug\_recordset.obj"
+".\Debug\adodc.obj"
+".\Debug\column.obj"
+".\Debug\columns.obj"
+".\Debug\dataformatdisp.obj"
+".\Debug\datagrid.obj"
+".\Debug\DlgChangepwd.obj"
+".\Debug\DlgJwAddcourse.obj"
+".\Debug\DlgJwDelcourse.obj"
+".\Debug\DlgJwPublish.obj"
+".\Debug\DlgLoginedJw.obj"
+".\Debug\DlgLoginedStudent.obj"
+".\Debug\DlgLoginedSystem.obj"
+".\Debug\DlgLoginedTeacher.obj"
+".\Debug\DlgPopInputscore.obj"
+".\Debug\DlgSystemAddjw.obj"
+".\Debug\DlgSystemAddstu.obj"
+".\Debug\DlgSystemAddtch.obj"
+".\Debug\DlgSystemDeljw.obj"
+".\Debug\DlgSystemDelstu.obj"
+".\Debug\DlgSystemDeltch.obj"
+".\Debug\DlgSystemUpdatejw.obj"
+".\Debug\DlgSystemUpdatestu.obj"
+".\Debug\DlgSystemUpdatetch.obj"
+".\Debug\DlgSysWelcome.obj"
+".\Debug\DlgTchInputscore.obj"
+".\Debug\field.obj"
+".\Debug\fields.obj"
+".\Debug\font.obj"
+".\Debug\picture.obj"
+".\Debug\properties.obj"
+".\Debug\property.obj"
+".\Debug\selbookmarks.obj"
+".\Debug\split.obj"
+".\Debug\splits.obj"
+".\Debug\StdAfx.obj"
+".\Debug\stddataformatsdisp.obj"
+".\Debug\sys_jwxt.obj"
+".\Debug\sys_jwxtDlg.obj"
+".\Debug\T_Admin.obj"
+".\Debug\T_Course.obj"
+".\Debug\T_Isselectcourse.obj"
+".\Debug\T_Jwadmin.obj"
+".\Debug\T_Publish.obj"
+".\Debug\T_SC.obj"
+".\Debug\T_Student.obj"
+".\Debug\T_Teacher.obj"
+".\Debug\sys_jwxt.res"
+]
+Creating command line "link.exe @C:\Users\zm\AppData\Local\Temp\RSPF7E.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+d:\大学学习资料\软件工程\专业相关课件\软件工程\10级软件一班第十三组大作业\代码\sys_jwxt\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Compiling...
+_recordset.cpp
+adodc.cpp
+column.cpp
+columns.cpp
+dataformatdisp.cpp
+datagrid.cpp
+DlgChangepwd.cpp
+DlgJwAddcourse.cpp
+DlgJwDelcourse.cpp
+DlgJwPublish.cpp
+DlgLoginedJw.cpp
+DlgLoginedStudent.cpp
+DlgLoginedSystem.cpp
+DlgLoginedTeacher.cpp
+DlgPopInputscore.cpp
+DlgSystemAddjw.cpp
+DlgSystemAddstu.cpp
+DlgSystemAddtch.cpp
+DlgSystemDeljw.cpp
+DlgSystemDelstu.cpp
+Generating Code...
+Compiling...
+DlgSystemDeltch.cpp
+DlgSystemUpdatejw.cpp
+DlgSystemUpdatestu.cpp
+DlgSystemUpdatetch.cpp
+DlgSysWelcome.cpp
+DlgTchInputscore.cpp
+field.cpp
+fields.cpp
+font.cpp
+picture.cpp
+properties.cpp
+property.cpp
+selbookmarks.cpp
+split.cpp
+splits.cpp
+stddataformatsdisp.cpp
+sys_jwxt.cpp
+sys_jwxtDlg.cpp
+T_Admin.cpp
+T_Course.cpp
+Generating Code...
+Compiling...
+T_Isselectcourse.cpp
+T_Jwadmin.cpp
+T_Publish.cpp
+T_SC.cpp
+T_Student.cpp
+T_Teacher.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+sys_jwxt.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

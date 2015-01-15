@@ -1,0 +1,11 @@
+; ADOConn.def : Declares the module parameters for the DLL.
+
+LIBRARY      "ADOConn"
+DESCRIPTION  'ADOConn Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+	OnInitDBConnect
+	ExitConnect
+	GetRecordset
+	ExecuteSQL
